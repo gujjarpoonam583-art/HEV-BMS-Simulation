@@ -27,6 +27,20 @@ This project focuses on the simulation of a Hybrid Electric Vehicle (HEV) Batter
 - Python_Code
 - Results
 - PPT
+- ## Results
+
+- Battery data successfully analyzed.
+- State of Charge (SOC) concept studied.
+- State of Health (SOH) monitoring explored.
+- Battery safety and protection mechanisms evaluated.
+- EV energy management dataset utilized.
+
+## Author
+
+Poonam
+Electrical Engineering Student
+NIMS University Rajasthan
+Internship: Technglobal Private Limited
 
 ## Expected Outcomes
 - Accurate SOC estimation
